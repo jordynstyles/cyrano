@@ -4,4 +4,10 @@
     <title>Introduction</title>
     <shortdesc>A little background on the history and creation of the play Cyrano de
         Bergerac.</shortdesc>
+    <body>
+        <p>&lt;h1>The Author&lt;/h1></p>
+        <p>&lt;h1>Characters&lt;/h1><ul id="ul_gjj_rgs_ddc">
+                <li>Cyrano de Bergerac</li>
+            </ul></p>
+    </body>
 </topic>
