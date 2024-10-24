@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Cyrano de Bergerac</title>
+    <topicref href="index.dita"/>
     <topicref href="introduction.dita"/>
     <topicref href="act-1.dita"/>
     <topicref href="act-2.dita"/>
